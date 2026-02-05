@@ -8,7 +8,13 @@
 
 ### Desenvolvedor Full Stack | Tecnologia em Análise e Desenvolvimento de Sistemas (IFES)
 
-Sou um desenvolvedor apaixonado por transformar ideias complexas em soluções de software escaláveis e eficientes. Com experiência que transita entre o desenvolvimento de sistemas corporativos (ERP/RH) e a criação de experiências imersivas em jogos, busco sempre o equilíbrio entre performance técnica e experiência do usuário. Atualmente trabalhando como Analista de Redes e Comunicações - NOC.
+Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Espírito Santo (IFES), com sólida experiência prática em Desenvolvimento Full Stack. Atua na criação de aplicações utilizando C# .NET, SQL, PHP, Lua e JavaScript. Profissionalmente atua como Analista de Redes e Comunicações (NOC), além de possuir conhecimentos em montagem e manutenção de computadores, redes e sistemas operacionais.
+
+Possui experiência com ferramentas como Photoshop, After Effects, Blender e SketchUp, aplicando habilidades em projetos pessoais e trabalhos freelance, especialmente no desenvolvimento para servidores FiveM Roleplay.
+
+Participou de iniciação científica voltado à automação com microcontroladores, integrando eletrônica e programação para criação de soluções tecnológicas.
+
+Profissional focado em tecnologia, inovação e resolução de problemas, sempre em busca de evolução contínua e novos desafios na área de desenvolvimento e tecnologia da informação.
 
 ---
 <div style="display: inline_block"><br>
